@@ -2,7 +2,7 @@
 #### Sintam-se a vontade para contribuir e interagir 🇧🇷
 
 <p>   
-   <img src="https://img.shields.io/badge/Mobile-React Native-f55247"/>
+  <img src="https://img.shields.io/badge/Mobile-React Native-f55247"/>
   <img src="https://img.shields.io/badge/Front End-React-f55247"/>
   <img src="https://img.shields.io/badge/Back End-NodeJs-f55247"/>
   
@@ -19,7 +19,6 @@
 
 
 
-![Gislaine's github stats](https://github-readme-stats.vercel.app/api?username=gislainejessica&show_icons=true&theme=graywhite)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gislainejessica&theme=graywhite&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
