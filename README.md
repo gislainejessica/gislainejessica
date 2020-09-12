@@ -45,7 +45,9 @@ Tenho estudado sobre UI/UX, uma area fascinante que tem me ajudado muito no meu 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gislainejessica/)
 [<img src="https://img.shields.io/github/followers/gislainejessica?label=follow&style=social" height="22" title="Follow me" />](https://github.com/gislainejessica) 
 
-
+<!-- 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gislainejessica&theme=graywhite&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
 
