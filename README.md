@@ -19,7 +19,7 @@
 
 ##  About Me 
 
-*Software Developer - Desenvolvedora de Software* 
+*Software Developer* 
 
 Enthusiast in Mobile Technologies and Web Development 
 
@@ -38,15 +38,15 @@ I have been studying UI / UX, a fascinating field that has helped me a lot in my
 > "If you can't explain it to a six year old, you don't understand it yourself."
 ― Albert Einstein
 
-> "Se você não consegue explicar algo de forma simples, você não entendeu suficientemente bem."
-― Albert Einstein
+
 
 [![Twitter](https://img.shields.io/twitter/follow/jessy_code?color=twitter&label=%40jessy_code&logo=twitter&logoColor=white&style=flat)](https://twitter.com/jessy_code)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gislainejessica/)
 [<img src="https://img.shields.io/github/followers/gislainejessica?label=follow&style=social" height="22" title="Follow me" />](https://github.com/gislainejessica) 
 
 <!-- 
-
+> "Se você não consegue explicar algo de forma simples, você não entendeu suficientemente bem."
+― Albert Einstein
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gislainejessica&theme=graywhite&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
