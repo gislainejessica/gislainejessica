@@ -17,26 +17,22 @@
 </p>
  
 
-##  About Me - Sobre mim
+##  About Me 
 
 *Software Developer - Desenvolvedora de Software* 
 
-Enthusiast in Mobile Technologies and Web Development - **_Entusiasta em Tecnologias Mobile e Desenvolvimento Web_** 
+Enthusiast in Mobile Technologies and Web Development 
 
 Curious by nature, I like to always look for new things to help me improve
-the applications I develop or even create new solutions - **_Curiosa por natureza, gosto de está sempre buscando por coisas novas que me ajudem a melhorar
-as aplicações que desenvolvo ou mesmo criar novas soluções_**
+the applications I develop or even create new solutions 
+I have been studying UI / UX, a fascinating field that has helped me a lot in my development in front-end. 
+- ⚡ Currently studying animations in React-Native, StoryBook and Cypress 
 
-I have been studying UI / UX, a fascinating field that has helped me a lot in my development in front-end. - **_Tenho estudado sobre UI/UX, uma area fascinante que tem me ajudado muito no meu desenvolovimento em front-end_**
-
-
-- ⚡ Currently studying animations in React-Native, StoryBook and Cypress - **_Atualmente estudando animações em React-Native, StoryBook e Cypress_**
-
-- 💬 We can talk about Technology, Mindfulness and Series - **_Podemos conversar sobre Tecnologia, Mindfulness e Séries_**.
+- 💬 We can talk about Technology, Mindfulness and Series 
 
 - 📫 Email: _gislainehjessica@gmail.com_.
 
-- :notes: Curiosity: I love listening to songs in random languages - **_Curiosidade: amo ouvir músicas em idiomas aleatórios_**
+- :notes: Curiosity: I love listening to songs in random languages 
 
 
 > "If you can't explain it to a six year old, you don't understand it yourself."
