@@ -15,8 +15,8 @@
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>
   </a>
 </p>
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gislainejessica&layout=compact&theme=material-palenight)](https://github.com/gislainejessica/github-readme-stats)
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gislainejessica&show_icons=true)
 
 
 ##  About Me 
@@ -41,10 +41,12 @@ I have been studying UI / UX, a fascinating field that has helped me a lot in my
 ― Albert Einstein
 
 
-
-[![Twitter](https://img.shields.io/twitter/follow/jessy_code?color=twitter&label=%40jessy_code&logo=twitter&logoColor=white&style=flat)](https://twitter.com/jessy_code)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gislainejessica/)
 [<img src="https://img.shields.io/github/followers/gislainejessica?label=follow&style=social" height="22" title="Follow me" />](https://github.com/gislainejessica) 
+
+
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gislainejessica&layout=compact&theme=default)](https://github.com/gislainejessica/github-readme-stats)
 
 <!-- 
 > "Se você não consegue explicar algo de forma simples, você não entendeu suficientemente bem."
