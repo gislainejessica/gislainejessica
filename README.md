@@ -15,7 +15,9 @@
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>
   </a>
 </p>
- 
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gislainejessica&layout=compact)](https://github.com/gislainejessica/github-readme-stats)
+
 
 ##  About Me 
 
