@@ -16,7 +16,7 @@
   </a>
 </p>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gislainejessica&layout=compact&theme=omni)](https://github.com/gislainejessica/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gislainejessica&layout=compact&theme=material-palenight)](https://github.com/gislainejessica/github-readme-stats)
 
 
 ##  About Me 
