@@ -6,17 +6,13 @@
   <img src="https://img.shields.io/badge/Front End-React-f55247"/>
   <img src="https://img.shields.io/badge/Back End-NodeJs-f55247"/>
   
-  <a href="https://github.com/gislainejessica/">
-    <img src="https://img.shields.io/github/followers/gislainejessica?color=%234CC61E&label=GitHub%20Followers%20%3A"/>
-  </a>
-  
   <img src="http://views.whatilearened.today/views/github/gislainejessica/views.svg"/> 
   <a href="https://github.com/gislainejessica?tab=repositories">
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>
   </a>
 </p>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gislainejessica&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gislainejessica&show_icons=true&theme=dark)
 
 
 ##  About Me 
@@ -46,7 +42,7 @@ I have been studying UI / UX, a fascinating field that has helped me a lot in my
 
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gislainejessica&layout=compact&theme=default)](https://github.com/gislainejessica/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gislainejessica&layout=compact&theme=dark)](https://github.com/gislainejessica/github-readme-stats)
 
 <!-- 
 > "Se você não consegue explicar algo de forma simples, você não entendeu suficientemente bem."
